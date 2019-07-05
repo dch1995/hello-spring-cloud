@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$/config" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/hello-spring-cloud-admin" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/hello-spring-cloud-config" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/hello-spring-cloud-dependencies" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/hello-spring-cloud-eureka" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/hello-spring-cloud-service-admin" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/hello-spring-cloud-web-admin-feign" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/hello-spring-cloud-zipkin" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/hello-spring-cloud-zuul" vcs="Git" />
+  </component>
+</project>

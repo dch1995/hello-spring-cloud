@@ -1,0 +1,7 @@
+spring:
+  cloud:
+    config:
+      uri: http://172.26.0.51:8888
+      name: spring-admin
+      label: master
+      profile: prod

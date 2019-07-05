@@ -1,0 +1,8 @@
+version: '3.1'
+services:
+  spring-config:
+    restart: always
+    image: 172.26.0.52:5000/spring-cloud-config
+    container_name: spring-config
+    ports:
+      - 8888:8888

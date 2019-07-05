@@ -1,0 +1,13 @@
+version: '3.1'
+services:
+  spring-admin:
+    restart: always
+    image: 172.26.0.52:5000/spring-cloud-admin
+    container_name: spring-admin
+    ports:
+      - 8084:8084
+    networks:
+      - admin-network
+
+networks:
+  admin-network:

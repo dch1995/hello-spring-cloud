@@ -1,0 +1,13 @@
+version: '3.1'
+services:
+  spring-zipkin:
+    restart: always
+    image: 172.26.0.52:5000/spring-cloud-zipkin
+    container_name: spring-zipkin
+    ports:
+      - 9411:9411
+    networks:
+      - zipkin-network
+
+networks:
+  zipkin-network:

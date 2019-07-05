@@ -1,0 +1,27 @@
+stages:
+  - build
+
+build:
+  stage: build
+  script:
+    - mvn clean package
+    - cp target/hello-spring-cloud-config-1.0.0-SNAPSHOT.jar docker
+    - cd docker/
+    - docker build -t 172.26.0.52:5000/spring-cloud-config .
+
+push:
+  stage: push
+  script:
+    - docker push 172.26.0.52:5000/spring-cloud-config
+
+run:
+  stage: run
+  script:
+    - cd docker/
+    - docker-compose down
+    - docker-compose up -d
+
+clean:
+  stage: clean
+  script:
+    - docker rmi $(docker images -q -f dangling=true)

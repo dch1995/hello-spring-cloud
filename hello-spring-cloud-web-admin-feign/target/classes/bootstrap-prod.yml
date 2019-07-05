@@ -1,0 +1,7 @@
+spring:
+  cloud:
+    config:
+      uri: http://172.26.0.52:8888
+      name: web-admin-feign
+      label: master
+      profile: prod

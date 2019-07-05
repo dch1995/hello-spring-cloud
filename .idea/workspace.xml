@@ -1,0 +1,1265 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="3fa75428-797a-4ef5-98b0-a7f27e6e3352" name="Default Changelist" comment="update">
+      <change beforePath="$PROJECT_DIR$/hello-spring-cloud-config/.gitlab-ci.yml" beforeDir="false" afterPath="$PROJECT_DIR$/hello-spring-cloud-config/.gitlab-ci.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hello-spring-cloud-config/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/hello-spring-cloud-config/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hello-spring-cloud-eureka/src/main/java/com/dch/hello/spring/cloud/eureka/EurekaApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/hello-spring-cloud-eureka/src/main/java/com/dch/hello/spring/cloud/eureka/EurekaApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hello-spring-cloud-service-admin/hello-spring-cloud-service-admin.iml" beforeDir="false" afterPath="$PROJECT_DIR$/hello-spring-cloud-service-admin/hello-spring-cloud-service-admin.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hello-spring-cloud-service-admin/src/main/java/com/dch/hello/spring/cloud/service/admin/ServiceAdminApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/hello-spring-cloud-service-admin/src/main/java/com/dch/hello/spring/cloud/service/admin/ServiceAdminApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hello-spring-cloud-web-admin-feign/src/main/java/com/dch/hello/spring/cloud/web/admin/feign/config/HystrixDashboardConfiguration.java" beforeDir="false" afterPath="$PROJECT_DIR$/hello-spring-cloud-web-admin-feign/src/main/java/com/dch/hello/spring/cloud/web/admin/feign/config/HystrixDashboardConfiguration.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hello-spring-cloud-web-admin-feign/src/main/java/com/dch/hello/spring/cloud/web/admin/feign/controller/AdminController.java" beforeDir="false" afterPath="$PROJECT_DIR$/hello-spring-cloud-web-admin-feign/src/main/java/com/dch/hello/spring/cloud/web/admin/feign/controller/AdminController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hello-spring-cloud-web-admin-feign/src/main/java/com/dch/hello/spring/cloud/web/admin/feign/service/AdminService.java" beforeDir="false" afterPath="$PROJECT_DIR$/hello-spring-cloud-web-admin-feign/src/main/java/com/dch/hello/spring/cloud/web/admin/feign/service/AdminService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hello-spring-cloud-web-admin-feign/src/main/java/com/dch/hello/spring/cloud/web/admin/feign/service/hystrix/AdminServiceHystrix.java" beforeDir="false" afterPath="$PROJECT_DIR$/hello-spring-cloud-web-admin-feign/src/main/java/com/dch/hello/spring/cloud/web/admin/feign/service/hystrix/AdminServiceHystrix.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hello-spring-cloud-zipkin/src/main/java/com/dch/hello/spring/cloud/zipkin/ZipKinApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/hello-spring-cloud-zipkin/src/main/java/com/dch/hello/spring/cloud/zipkin/ZipKinApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hello-spring-cloud-zuul/hello-spring-cloud-zuul.iml" beforeDir="false" afterPath="$PROJECT_DIR$/hello-spring-cloud-zuul/hello-spring-cloud-zuul.iml" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/hello-spring-cloud-dependencies/target/" />
+    <ignored path="$PROJECT_DIR$/hello-spring-cloud-eureka/target/" />
+    <ignored path="$PROJECT_DIR$/hello-spring-cloud-service-admin/target/" />
+    <ignored path="$PROJECT_DIR$/hello-spring-cloud-web-admin-feign/target/" />
+    <ignored path="$PROJECT_DIR$/hello-spring-cloud-zuul/target/" />
+    <ignored path="$PROJECT_DIR$/hello-spring-cloud-config/target/" />
+    <ignored path="$PROJECT_DIR$/hello-spring-cloud-zipkin/target/" />
+    <ignored path="$PROJECT_DIR$/hello-spring-cloud-admin/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/config/respo/eureka-prod.yml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="275">
+              <caret line="11" column="12" lean-forward="true" selection-start-line="11" selection-start-column="12" selection-end-line="11" selection-end-column="12" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/hello-spring-cloud-eureka/src/main/resources/bootstrap-prod.yml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="100">
+              <caret line="4" column="18" lean-forward="true" selection-start-line="4" selection-start-column="18" selection-end-line="4" selection-end-column="18" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/hello-spring-cloud-eureka" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/hello-spring-cloud-config/src/main/java/com/dch/hello/spring/cloud/config/ConfigApplication.java" />
+        <option value="$PROJECT_DIR$/hello-spring-cloud-web-admin-feign/src/main/resources/application.yml" />
+        <option value="$PROJECT_DIR$/hello-spring-cloud-web-admin-feign/src/main/resources/application-prod.yml" />
+        <option value="$PROJECT_DIR$/hello-spring-cloud-zipkin/src/main/java/com/dch/hello/spring/cloud/zipkin/ZipKinApplication.java" />
+        <option value="$PROJECT_DIR$/hello-spring-cloud-admin/src/main/java/com/dch/hello/spring/cloud/admin/AdminApplication.java" />
+        <option value="$PROJECT_DIR$/hello-spring-cloud-admin/src/main/resources/application.yml" />
+        <option value="$PROJECT_DIR$/hello-spring-cloud-eureka/src/main/resources/application.yml" />
+        <option value="$PROJECT_DIR$/hello-spring-cloud-service-admin/src/main/resources/application.yml" />
+        <option value="$PROJECT_DIR$/hello-spring-cloud-zipkin/src/main/resources/application.yml" />
+        <option value="$PROJECT_DIR$/hello-spring-cloud-zuul/src/main/resources/application.yml" />
+        <option value="$PROJECT_DIR$/hello-spring-cloud-dependencies/pom.xml" />
+        <option value="$PROJECT_DIR$/hello-spring-cloud-config/src/main/resources/application.yml" />
+        <option value="$PROJECT_DIR$/hello-spring-cloud-web-admin-feign/src/main/resources/bootstrap-prod.yml" />
+        <option value="$PROJECT_DIR$/hello-spring-cloud-config/pom.xml" />
+        <option value="$PROJECT_DIR$/hello-spring-cloud-web-admin-feign/pom.xml" />
+        <option value="$PROJECT_DIR$/config/respo/admin-dev.yml" />
+        <option value="$PROJECT_DIR$/hello-spring-cloud-web-admin-feign/src/main/resources/bootstrap.yml" />
+        <option value="$PROJECT_DIR$/hello-spring-cloud-eureka/pom.xml" />
+        <option value="$PROJECT_DIR$/hello-spring-cloud-admin/pom.xml" />
+        <option value="$PROJECT_DIR$/hello-spring-cloud-service-admin/pom.xml" />
+        <option value="$PROJECT_DIR$/hello-spring-cloud-zipkin/pom.xml" />
+        <option value="$PROJECT_DIR$/hello-spring-cloud-zuul/pom.xml" />
+        <option value="$PROJECT_DIR$/config/respo/admin-prod.yml" />
+        <option value="$PROJECT_DIR$/hello-spring-cloud-config/docker/Dockerfile" />
+        <option value="$PROJECT_DIR$/hello-spring-cloud-eureka/src/main/resources/bootstrap-prod.yml" />
+        <option value="$PROJECT_DIR$/hello-spring-cloud-eureka/src/main/resources/bootstrap.yml" />
+        <option value="$PROJECT_DIR$/hello-spring-cloud-admin/src/main/resources/bootstrap.yml" />
+        <option value="$PROJECT_DIR$/hello-spring-cloud-admin/src/main/resources/bootstrap-prod.yml" />
+        <option value="$PROJECT_DIR$/hello-spring-cloud-zipkin/src/main/resources/bootstrap.yml" />
+        <option value="$PROJECT_DIR$/hello-spring-cloud-zipkin/src/main/resources/bootstrap-prod.yml" />
+        <option value="$PROJECT_DIR$/hello-spring-cloud-config/src/main/resources/bootstrap.yml" />
+        <option value="$PROJECT_DIR$/config/respo/zipkin-dev.yml" />
+        <option value="$PROJECT_DIR$/hello-spring-cloud-eureka/docker/Dockerfile" />
+        <option value="$PROJECT_DIR$/hello-spring-cloud-zipkin/docker/Dockerfile" />
+        <option value="$PROJECT_DIR$/config/respo/zipkin-prod.yml" />
+        <option value="$PROJECT_DIR$/config/respo/spring-admin-prod.yml" />
+        <option value="$PROJECT_DIR$/config/respo/eureka-dev.yml" />
+        <option value="$PROJECT_DIR$/config/respo/spring-admin-dev.yml" />
+        <option value="$PROJECT_DIR$/config/respo/web-admin-feign-dev.yml" />
+        <option value="$PROJECT_DIR$/config/respo/web-admin-feign-prod.yml" />
+        <option value="$PROJECT_DIR$/hello-spring-cloud-config/src/main/resources/bootstrap-prod.yml" />
+        <option value="$PROJECT_DIR$/hello-spring-cloud-admin/docker/Dockerfile" />
+        <option value="$PROJECT_DIR$/hello-spring-cloud-config/docker/docker-compose.yml" />
+        <option value="$PROJECT_DIR$/hello-spring-cloud-eureka/docker/docker-compose.yml" />
+        <option value="$PROJECT_DIR$/hello-spring-cloud-zipkin/.gitlab-ci.yml" />
+        <option value="$PROJECT_DIR$/hello-spring-cloud-zipkin/docker/docker-compose.yml" />
+        <option value="$PROJECT_DIR$/hello-spring-cloud-admin/docker/docker-compose.yml" />
+        <option value="$PROJECT_DIR$/hello-spring-cloud-admin/.gitlab-ci.yml" />
+        <option value="$PROJECT_DIR$/hello-spring-cloud-eureka/.gitlab-ci.yml" />
+        <option value="$PROJECT_DIR$/config/respo/eureka-prod.yml" />
+        <option value="$PROJECT_DIR$/hello-spring-cloud-config/.gitlab-ci.yml" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="E:/Soft/apache-maven-3.6.0" />
+        <option name="userSettingsFile" value="E:\Soft\apache-maven-3.6.0\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand />
+      <select />
+    </treeState>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="85" />
+    <option name="y" value="25" />
+    <option name="width" value="1750" />
+    <option name="height" value="980" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="hello-spring-cloud" type="b2602c69:ProjectViewProjectNode" />
+              <item name="hello-spring-cloud" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="hello-spring-cloud" type="b2602c69:ProjectViewProjectNode" />
+              <item name="hello-spring-cloud" type="462c0819:PsiDirectoryNode" />
+              <item name="config" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="hello-spring-cloud" type="b2602c69:ProjectViewProjectNode" />
+              <item name="hello-spring-cloud" type="462c0819:PsiDirectoryNode" />
+              <item name="hello-spring-cloud-config" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="hello-spring-cloud" type="b2602c69:ProjectViewProjectNode" />
+              <item name="hello-spring-cloud" type="462c0819:PsiDirectoryNode" />
+              <item name="hello-spring-cloud-eureka" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="hello-spring-cloud" type="b2602c69:ProjectViewProjectNode" />
+              <item name="hello-spring-cloud" type="462c0819:PsiDirectoryNode" />
+              <item name="hello-spring-cloud-eureka" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="hello-spring-cloud" type="b2602c69:ProjectViewProjectNode" />
+              <item name="hello-spring-cloud" type="462c0819:PsiDirectoryNode" />
+              <item name="hello-spring-cloud-eureka" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="hello-spring-cloud" type="b2602c69:ProjectViewProjectNode" />
+              <item name="hello-spring-cloud" type="462c0819:PsiDirectoryNode" />
+              <item name="hello-spring-cloud-eureka" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="hello-spring-cloud" type="b2602c69:ProjectViewProjectNode" />
+              <item name="hello-spring-cloud" type="462c0819:PsiDirectoryNode" />
+              <item name="hello-spring-cloud-eureka" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="eureka" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="hello-spring-cloud" type="b2602c69:ProjectViewProjectNode" />
+              <item name="hello-spring-cloud" type="462c0819:PsiDirectoryNode" />
+              <item name="hello-spring-cloud-eureka" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1548483683209" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../personal/personal" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\WorkSpace\Ideawork\hello-spring-cloud\config\respo" />
+      <recent name="E:\WorkSpace\Ideawork\hello-spring-cloud\hello-spring-cloud-zipkin\src\main\resources" />
+      <recent name="E:\WorkSpace\Ideawork\hello-spring-cloud\hello-spring-cloud-eureka\src\main\resources" />
+      <recent name="E:\WorkSpace\Ideawork\hello-spring-cloud\hello-spring-cloud-admin\src\main\resources" />
+      <recent name="E:\WorkSpace\Ideawork\hello-spring-cloud\hello-spring-cloud-config\src\main\resources" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="configurationTypes">
+      <set>
+        <option value="SpringBootApplicationConfigurationType" />
+      </set>
+    </option>
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+    <option name="contentProportion" value="0.21516393" />
+  </component>
+  <component name="RunManager" selected="Spring Boot.ZuulApplication">
+    <configuration name="AdminApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="hello-spring-cloud-admin" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.dch.hello.spring.cloud.admin.AdminApplication" />
+      <option name="ACTIVE_PROFILES" value="prod" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ConfigApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="hello-spring-cloud-config" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.dch.hello.spring.cloud.config.ConfigApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EurekaApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="hello-spring-cloud-eureka" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.dch.hello.spring.cloud.eureka.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.dch.hello.spring.cloud.eureka.EurekaApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ServiceAdminApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" singleton="false" temporary="true" nameIsGenerated="true">
+      <module name="hello-spring-cloud-service-admin" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.dch.hello.spring.cloud.service.admin.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.dch.hello.spring.cloud.service.admin.ServiceAdminApplication" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="WebAdminFeignApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="hello-spring-cloud-web-admin-feign" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.dch.hello.spring.cloud.web.admin.feign.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.dch.hello.spring.cloud.web.admin.feign.WebAdminFeignApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ZipKinApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="hello-spring-cloud-zipkin" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.dch.hello.spring.cloud.zipkin.ZipKinApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ZuulApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="hello-spring-cloud-zuul" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.dch.hello.spring.cloud.zuul.ZuulApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Spring Boot.ZuulApplication" />
+      <item itemvalue="Spring Boot.ConfigApplication" />
+      <item itemvalue="Spring Boot.ZipKinApplication" />
+      <item itemvalue="Spring Boot.AdminApplication" />
+      <item itemvalue="Spring Boot.EurekaApplication" />
+      <item itemvalue="Spring Boot.ServiceAdminApplication" />
+      <item itemvalue="Spring Boot.WebAdminFeignApplication" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Spring Boot.EurekaApplication" />
+        <item itemvalue="Spring Boot.WebAdminFeignApplication" />
+        <item itemvalue="Spring Boot.ServiceAdminApplication" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3fa75428-797a-4ef5-98b0-a7f27e6e3352" name="Default Changelist" comment="" />
+      <created>1546478036751</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1546478036751</updated>
+      <workItem from="1546478039852" duration="2949000" />
+      <workItem from="1546486074081" duration="15401000" />
+      <workItem from="1546503295838" duration="551000" />
+      <workItem from="1546504621531" duration="1564000" />
+      <workItem from="1546525311599" duration="1058000" />
+      <workItem from="1546747928779" duration="291000" />
+      <workItem from="1546754541257" duration="16984000" />
+      <workItem from="1546786681009" duration="1641000" />
+      <workItem from="1546863127734" duration="9944000" />
+      <workItem from="1546873251531" duration="76000" />
+      <workItem from="1546911656728" duration="2958000" />
+      <workItem from="1546920462922" duration="8327000" />
+      <workItem from="1546929001990" duration="395000" />
+      <workItem from="1547448076112" duration="329000" />
+      <workItem from="1547449505250" duration="1228000" />
+      <workItem from="1548482979250" duration="1023000" />
+    </task>
+    <task id="LOCAL-00034" summary="update">
+      <created>1546868264300</created>
+      <option name="number" value="00034" />
+      <option name="presentableId" value="LOCAL-00034" />
+      <option name="project" value="LOCAL" />
+      <updated>1546868264300</updated>
+    </task>
+    <task id="LOCAL-00035" summary="update">
+      <created>1546868377742</created>
+      <option name="number" value="00035" />
+      <option name="presentableId" value="LOCAL-00035" />
+      <option name="project" value="LOCAL" />
+      <updated>1546868377742</updated>
+    </task>
+    <task id="LOCAL-00036" summary="update">
+      <created>1546868441735</created>
+      <option name="number" value="00036" />
+      <option name="presentableId" value="LOCAL-00036" />
+      <option name="project" value="LOCAL" />
+      <updated>1546868441735</updated>
+    </task>
+    <task id="LOCAL-00037" summary="update">
+      <created>1546868635809</created>
+      <option name="number" value="00037" />
+      <option name="presentableId" value="LOCAL-00037" />
+      <option name="project" value="LOCAL" />
+      <updated>1546868635809</updated>
+    </task>
+    <task id="LOCAL-00038" summary="update">
+      <created>1546868780594</created>
+      <option name="number" value="00038" />
+      <option name="presentableId" value="LOCAL-00038" />
+      <option name="project" value="LOCAL" />
+      <updated>1546868780594</updated>
+    </task>
+    <task id="LOCAL-00039" summary="update">
+      <created>1546869006923</created>
+      <option name="number" value="00039" />
+      <option name="presentableId" value="LOCAL-00039" />
+      <option name="project" value="LOCAL" />
+      <updated>1546869006923</updated>
+    </task>
+    <task id="LOCAL-00040" summary="update">
+      <created>1546869036639</created>
+      <option name="number" value="00040" />
+      <option name="presentableId" value="LOCAL-00040" />
+      <option name="project" value="LOCAL" />
+      <updated>1546869036639</updated>
+    </task>
+    <task id="LOCAL-00041" summary="update">
+      <created>1546869206724</created>
+      <option name="number" value="00041" />
+      <option name="presentableId" value="LOCAL-00041" />
+      <option name="project" value="LOCAL" />
+      <updated>1546869206724</updated>
+    </task>
+    <task id="LOCAL-00042" summary="update">
+      <created>1546869401146</created>
+      <option name="number" value="00042" />
+      <option name="presentableId" value="LOCAL-00042" />
+      <option name="project" value="LOCAL" />
+      <updated>1546869401146</updated>
+    </task>
+    <task id="LOCAL-00043" summary="update">
+      <created>1546869513158</created>
+      <option name="number" value="00043" />
+      <option name="presentableId" value="LOCAL-00043" />
+      <option name="project" value="LOCAL" />
+      <updated>1546869513158</updated>
+    </task>
+    <task id="LOCAL-00044" summary="update">
+      <created>1546869778635</created>
+      <option name="number" value="00044" />
+      <option name="presentableId" value="LOCAL-00044" />
+      <option name="project" value="LOCAL" />
+      <updated>1546869778635</updated>
+    </task>
+    <task id="LOCAL-00045" summary="update">
+      <created>1546869812229</created>
+      <option name="number" value="00045" />
+      <option name="presentableId" value="LOCAL-00045" />
+      <option name="project" value="LOCAL" />
+      <updated>1546869812229</updated>
+    </task>
+    <task id="LOCAL-00046" summary="update">
+      <created>1546869835762</created>
+      <option name="number" value="00046" />
+      <option name="presentableId" value="LOCAL-00046" />
+      <option name="project" value="LOCAL" />
+      <updated>1546869835762</updated>
+    </task>
+    <task id="LOCAL-00047" summary="update">
+      <created>1546869856177</created>
+      <option name="number" value="00047" />
+      <option name="presentableId" value="LOCAL-00047" />
+      <option name="project" value="LOCAL" />
+      <updated>1546869856177</updated>
+    </task>
+    <task id="LOCAL-00048" summary="update">
+      <created>1546870032754</created>
+      <option name="number" value="00048" />
+      <option name="presentableId" value="LOCAL-00048" />
+      <option name="project" value="LOCAL" />
+      <updated>1546870032754</updated>
+    </task>
+    <task id="LOCAL-00049" summary="update">
+      <created>1546870654189</created>
+      <option name="number" value="00049" />
+      <option name="presentableId" value="LOCAL-00049" />
+      <option name="project" value="LOCAL" />
+      <updated>1546870654189</updated>
+    </task>
+    <task id="LOCAL-00050" summary="update">
+      <created>1546871681387</created>
+      <option name="number" value="00050" />
+      <option name="presentableId" value="LOCAL-00050" />
+      <option name="project" value="LOCAL" />
+      <updated>1546871681388</updated>
+    </task>
+    <task id="LOCAL-00051" summary="update">
+      <created>1546872082820</created>
+      <option name="number" value="00051" />
+      <option name="presentableId" value="LOCAL-00051" />
+      <option name="project" value="LOCAL" />
+      <updated>1546872082820</updated>
+    </task>
+    <task id="LOCAL-00052" summary="update">
+      <created>1546872790678</created>
+      <option name="number" value="00052" />
+      <option name="presentableId" value="LOCAL-00052" />
+      <option name="project" value="LOCAL" />
+      <updated>1546872790678</updated>
+    </task>
+    <task id="LOCAL-00053" summary="update">
+      <created>1546873125906</created>
+      <option name="number" value="00053" />
+      <option name="presentableId" value="LOCAL-00053" />
+      <option name="project" value="LOCAL" />
+      <updated>1546873125906</updated>
+    </task>
+    <task id="LOCAL-00054" summary="update">
+      <created>1546873279698</created>
+      <option name="number" value="00054" />
+      <option name="presentableId" value="LOCAL-00054" />
+      <option name="project" value="LOCAL" />
+      <updated>1546873279698</updated>
+    </task>
+    <task id="LOCAL-00055" summary="update">
+      <created>1546914588001</created>
+      <option name="number" value="00055" />
+      <option name="presentableId" value="LOCAL-00055" />
+      <option name="project" value="LOCAL" />
+      <updated>1546914588002</updated>
+    </task>
+    <task id="LOCAL-00056" summary="update">
+      <created>1546920848203</created>
+      <option name="number" value="00056" />
+      <option name="presentableId" value="LOCAL-00056" />
+      <option name="project" value="LOCAL" />
+      <updated>1546920848204</updated>
+    </task>
+    <task id="LOCAL-00057" summary="update">
+      <created>1546920927995</created>
+      <option name="number" value="00057" />
+      <option name="presentableId" value="LOCAL-00057" />
+      <option name="project" value="LOCAL" />
+      <updated>1546920927995</updated>
+    </task>
+    <task id="LOCAL-00058" summary="update">
+      <created>1546921180808</created>
+      <option name="number" value="00058" />
+      <option name="presentableId" value="LOCAL-00058" />
+      <option name="project" value="LOCAL" />
+      <updated>1546921180808</updated>
+    </task>
+    <task id="LOCAL-00059" summary="update">
+      <created>1546921411586</created>
+      <option name="number" value="00059" />
+      <option name="presentableId" value="LOCAL-00059" />
+      <option name="project" value="LOCAL" />
+      <updated>1546921411586</updated>
+    </task>
+    <task id="LOCAL-00060" summary="update">
+      <created>1546921454155</created>
+      <option name="number" value="00060" />
+      <option name="presentableId" value="LOCAL-00060" />
+      <option name="project" value="LOCAL" />
+      <updated>1546921454155</updated>
+    </task>
+    <task id="LOCAL-00061" summary="update">
+      <created>1546921784485</created>
+      <option name="number" value="00061" />
+      <option name="presentableId" value="LOCAL-00061" />
+      <option name="project" value="LOCAL" />
+      <updated>1546921784485</updated>
+    </task>
+    <task id="LOCAL-00062" summary="update">
+      <created>1546921919095</created>
+      <option name="number" value="00062" />
+      <option name="presentableId" value="LOCAL-00062" />
+      <option name="project" value="LOCAL" />
+      <updated>1546921919095</updated>
+    </task>
+    <task id="LOCAL-00063" summary="update">
+      <created>1546921949694</created>
+      <option name="number" value="00063" />
+      <option name="presentableId" value="LOCAL-00063" />
+      <option name="project" value="LOCAL" />
+      <updated>1546921949694</updated>
+    </task>
+    <task id="LOCAL-00064" summary="update">
+      <created>1546921971455</created>
+      <option name="number" value="00064" />
+      <option name="presentableId" value="LOCAL-00064" />
+      <option name="project" value="LOCAL" />
+      <updated>1546921971455</updated>
+    </task>
+    <task id="LOCAL-00065" summary="update">
+      <created>1546922155516</created>
+      <option name="number" value="00065" />
+      <option name="presentableId" value="LOCAL-00065" />
+      <option name="project" value="LOCAL" />
+      <updated>1546922155516</updated>
+    </task>
+    <task id="LOCAL-00066" summary="update">
+      <created>1546922632884</created>
+      <option name="number" value="00066" />
+      <option name="presentableId" value="LOCAL-00066" />
+      <option name="project" value="LOCAL" />
+      <updated>1546922632884</updated>
+    </task>
+    <task id="LOCAL-00067" summary="update">
+      <created>1546923001258</created>
+      <option name="number" value="00067" />
+      <option name="presentableId" value="LOCAL-00067" />
+      <option name="project" value="LOCAL" />
+      <updated>1546923001258</updated>
+    </task>
+    <task id="LOCAL-00068" summary="update">
+      <created>1546923073584</created>
+      <option name="number" value="00068" />
+      <option name="presentableId" value="LOCAL-00068" />
+      <option name="project" value="LOCAL" />
+      <updated>1546923073584</updated>
+    </task>
+    <task id="LOCAL-00069" summary="update">
+      <created>1546923459822</created>
+      <option name="number" value="00069" />
+      <option name="presentableId" value="LOCAL-00069" />
+      <option name="project" value="LOCAL" />
+      <updated>1546923459822</updated>
+    </task>
+    <task id="LOCAL-00070" summary="update">
+      <created>1546924884814</created>
+      <option name="number" value="00070" />
+      <option name="presentableId" value="LOCAL-00070" />
+      <option name="project" value="LOCAL" />
+      <updated>1546924884814</updated>
+    </task>
+    <task id="LOCAL-00071" summary="update">
+      <created>1546926234366</created>
+      <option name="number" value="00071" />
+      <option name="presentableId" value="LOCAL-00071" />
+      <option name="project" value="LOCAL" />
+      <updated>1546926234366</updated>
+    </task>
+    <task id="LOCAL-00072" summary="update">
+      <created>1546926670500</created>
+      <option name="number" value="00072" />
+      <option name="presentableId" value="LOCAL-00072" />
+      <option name="project" value="LOCAL" />
+      <updated>1546926670500</updated>
+    </task>
+    <task id="LOCAL-00073" summary="update">
+      <created>1546926725623</created>
+      <option name="number" value="00073" />
+      <option name="presentableId" value="LOCAL-00073" />
+      <option name="project" value="LOCAL" />
+      <updated>1546926725623</updated>
+    </task>
+    <task id="LOCAL-00074" summary="update">
+      <created>1546926844724</created>
+      <option name="number" value="00074" />
+      <option name="presentableId" value="LOCAL-00074" />
+      <option name="project" value="LOCAL" />
+      <updated>1546926844724</updated>
+    </task>
+    <task id="LOCAL-00075" summary="update">
+      <created>1546927728837</created>
+      <option name="number" value="00075" />
+      <option name="presentableId" value="LOCAL-00075" />
+      <option name="project" value="LOCAL" />
+      <updated>1546927728837</updated>
+    </task>
+    <task id="LOCAL-00076" summary="update">
+      <created>1546927934425</created>
+      <option name="number" value="00076" />
+      <option name="presentableId" value="LOCAL-00076" />
+      <option name="project" value="LOCAL" />
+      <updated>1546927934426</updated>
+    </task>
+    <task id="LOCAL-00077" summary="update">
+      <created>1546928095042</created>
+      <option name="number" value="00077" />
+      <option name="presentableId" value="LOCAL-00077" />
+      <option name="project" value="LOCAL" />
+      <updated>1546928095042</updated>
+    </task>
+    <task id="LOCAL-00078" summary="update">
+      <created>1546928406411</created>
+      <option name="number" value="00078" />
+      <option name="presentableId" value="LOCAL-00078" />
+      <option name="project" value="LOCAL" />
+      <updated>1546928406411</updated>
+    </task>
+    <task id="LOCAL-00079" summary="update">
+      <created>1546928573710</created>
+      <option name="number" value="00079" />
+      <option name="presentableId" value="LOCAL-00079" />
+      <option name="project" value="LOCAL" />
+      <updated>1546928573710</updated>
+    </task>
+    <task id="LOCAL-00080" summary="update">
+      <created>1546929066143</created>
+      <option name="number" value="00080" />
+      <option name="presentableId" value="LOCAL-00080" />
+      <option name="project" value="LOCAL" />
+      <updated>1546929066144</updated>
+    </task>
+    <task id="LOCAL-00081" summary="update">
+      <created>1546929135930</created>
+      <option name="number" value="00081" />
+      <option name="presentableId" value="LOCAL-00081" />
+      <option name="project" value="LOCAL" />
+      <updated>1546929135930</updated>
+    </task>
+    <task id="LOCAL-00082" summary="update">
+      <created>1546929392528</created>
+      <option name="number" value="00082" />
+      <option name="presentableId" value="LOCAL-00082" />
+      <option name="project" value="LOCAL" />
+      <updated>1546929392528</updated>
+    </task>
+    <option name="localTasksCounter" value="83" />
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="64719000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49841774" visible="true" weight="0.2969169" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Designer" order="2" />
+      <window_info id="Image Layers" order="3" />
+      <window_info id="Capture Tool" order="4" />
+      <window_info id="UI Designer" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info id="Web" order="7" sideWeight="0.50158226" side_tool="true" weight="0.2600536" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49798927" weight="0.46817538" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Spring" order="7" weight="0.32956153" />
+      <window_info anchor="bottom" id="Terminal" order="8" weight="0.3286119" />
+      <window_info anchor="bottom" id="Docker" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.50067025" side_tool="true" weight="0.3286119" />
+      <window_info anchor="bottom" id="Messages" order="11" />
+      <window_info anchor="bottom" id="Java Enterprise" order="12" />
+      <window_info anchor="bottom" id="Database Changes" order="13" />
+      <window_info anchor="bottom" id="Version Control" order="14" sideWeight="0.49932975" weight="0.3286119" />
+      <window_info anchor="bottom" id="Run Dashboard" order="15" sideWeight="0.49865952" weight="0.47949082" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Maven" order="3" weight="0.27010724" />
+      <window_info anchor="right" id="Palette" order="4" />
+      <window_info anchor="right" id="Capture Analysis" order="5" />
+      <window_info anchor="right" id="Database" order="6" weight="0.32951483" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Theme Preview" order="8" />
+      <window_info anchor="right" id="Bean Validation" order="9" weight="0.3297587" />
+    </layout>
+    <layout-to-restore>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25606468" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Designer" order="2" />
+      <window_info id="Image Layers" order="3" />
+      <window_info id="Capture Tool" order="4" />
+      <window_info id="UI Designer" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info id="Web" order="7" side_tool="true" />
+      <window_info anchor="bottom" id="Run Dashboard" order="0" weight="0.59447676" />
+      <window_info anchor="bottom" id="Message" order="1" />
+      <window_info anchor="bottom" id="Find" order="2" />
+      <window_info anchor="bottom" id="Run" order="3" sideWeight="0.49798927" weight="0.46817538" />
+      <window_info anchor="bottom" id="Debug" order="4" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="5" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="6" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="7" />
+      <window_info anchor="bottom" id="Spring" order="8" weight="0.32956153" />
+      <window_info anchor="bottom" id="Terminal" order="9" />
+      <window_info anchor="bottom" id="Docker" order="10" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.5020107" side_tool="true" weight="0.46817538" />
+      <window_info anchor="bottom" id="Messages" order="12" />
+      <window_info anchor="bottom" id="Java Enterprise" order="13" />
+      <window_info anchor="bottom" id="Database Changes" order="14" />
+      <window_info anchor="bottom" id="Version Control" order="15" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Maven" order="3" weight="0.30592993" />
+      <window_info anchor="right" id="Palette" order="4" />
+      <window_info anchor="right" id="Capture Analysis" order="5" />
+      <window_info anchor="right" id="Database" order="6" weight="0.32951483" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Theme Preview" order="8" />
+      <window_info anchor="right" id="Bean Validation" order="9" weight="0.3297587" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
+    <option name="CHECK_NEW_TODO" value="false" />
+    <MESSAGE value="init commit" />
+    <MESSAGE value="re commit" />
+    <MESSAGE value="update1" />
+    <MESSAGE value="Merge remote-tracking branch 'origin/master'&#10;&#10;# Conflicts:&#10;#&#9;respo/spring-admin-dev.yml" />
+    <MESSAGE value="update" />
+    <option name="LAST_COMMIT_MESSAGE" value="update" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot-dependencies/2.0.3.RELEASE/spring-boot-dependencies-2.0.3.RELEASE.pom">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1200" />
+      </provider>
+    </entry>
+    <entry file="file://$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot-starter-parent/2.0.3.RELEASE/spring-boot-starter-parent-2.0.3.RELEASE.pom">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="100">
+          <caret line="4" column="35" selection-start-line="4" selection-start-column="35" selection-end-line="4" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hello-spring-cloud-dependencies/hello-spring-cloud-dependencies.iml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hello-spring-cloud-zipkin/src/main/java/com/dch/hello/spring/cloud/zipkin/ZipKinApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="9" column="19" selection-start-line="9" selection-start-column="19" selection-end-line="9" selection-end-column="19" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#264#265#0" expanded="true" />
+            <element signature="e#298#299#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hello-spring-cloud-admin/src/main/java/com/dch/hello/spring/cloud/admin/AdminApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="200">
+          <caret line="8" column="19" selection-start-line="8" selection-start-column="19" selection-end-line="8" selection-end-column="19" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#262#263#0" expanded="true" />
+            <element signature="e#300#301#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hello-spring-cloud-service-admin/src/main/resources/application.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="9" selection-start-line="9" selection-end-line="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hello-spring-cloud-zuul/src/main/resources/application.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="98">
+          <caret line="12" selection-start-line="12" selection-end-line="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hello-spring-cloud-config/src/main/java/com/dch/hello/spring/cloud/config/ConfigApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="275">
+          <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hello-spring-cloud-web-admin-feign/src/main/java/com/dch/hello/spring/cloud/web/admin/feign/config/HystrixDashboardConfiguration.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="375">
+          <caret line="15" column="42" selection-start-line="15" selection-start-column="42" selection-end-line="15" selection-end-column="49" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hello-spring-cloud-web-admin-feign/src/main/resources/bootstrap-prod.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="6" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hello-spring-cloud-web-admin-feign/src/main/java/com/dch/hello/spring/cloud/web/admin/feign/WebAdminFeignApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="275">
+          <caret line="11" column="21" lean-forward="true" selection-start-line="11" selection-start-column="21" selection-end-line="11" selection-end-column="21" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hello-spring-cloud-eureka/src/main/java/com/dch/hello/spring/cloud/eureka/EurekaApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="259">
+          <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hello-spring-cloud-web-admin-feign/src/main/resources/bootstrap.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="175">
+          <caret line="7" selection-start-line="7" selection-end-line="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hello-spring-cloud-web-admin-feign/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="125">
+          <caret line="53" column="8" selection-start-line="53" selection-start-column="8" selection-end-line="56" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hello-spring-cloud-eureka/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="185">
+          <caret line="37" column="8" selection-start-line="37" selection-start-column="8" selection-end-line="40" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hello-spring-cloud-service-admin/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="381">
+          <caret line="40" column="21" selection-start-line="40" selection-start-column="21" selection-end-line="40" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hello-spring-cloud-zuul/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1">
+          <caret line="58" column="21" selection-start-line="58" selection-start-column="21" selection-end-line="58" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hello-spring-cloud-zipkin/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="463">
+          <caret line="61" column="21" selection-start-line="61" selection-start-column="21" selection-end-line="61" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config/respo/spring-admin.yml" />
+    <entry file="file://$PROJECT_DIR$/hello-spring-cloud-eureka/src/main/resources/bootstrap.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="3" column="27" selection-start-line="3" selection-start-column="27" selection-end-line="3" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hello-spring-cloud-zipkin/src/main/resources/bootstrap.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="3" column="27" selection-start-line="3" selection-start-column="27" selection-end-line="3" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hello-spring-cloud-config/src/main/resources/bootstrap.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="650">
+          <caret line="26" column="101" selection-start-line="26" selection-start-column="101" selection-end-line="26" selection-end-column="101" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hello-spring-cloud-zipkin/src/main/resources/bootstrap-prod.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="3" column="29" selection-start-line="3" selection-start-column="29" selection-end-line="3" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config/respo/web-admin-feign-dev.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="350">
+          <caret line="14" column="29" selection-start-line="14" selection-start-column="29" selection-end-line="14" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config/respo/web-admin-feign-prod.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="350">
+          <caret line="14" column="31" selection-start-line="14" selection-start-column="31" selection-end-line="14" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hello-spring-cloud-config/src/main/resources/bootstrap-prod.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="206">
+          <caret line="15" column="31" selection-start-line="15" selection-start-column="31" selection-end-line="15" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hello-spring-cloud-eureka/docker/docker-compose.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="550">
+          <caret line="22" column="47" selection-start-line="22" selection-start-column="47" selection-end-line="22" selection-end-column="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hello-spring-cloud-eureka/docker/Dockerfile">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="375">
+          <caret line="15" column="11" lean-forward="true" selection-start-line="15" selection-start-column="11" selection-end-line="15" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hello-spring-cloud-config/docker/docker-compose.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="100">
+          <caret line="4" column="47" lean-forward="true" selection-start-line="4" selection-start-column="11" selection-end-line="4" selection-end-column="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hello-spring-cloud-zipkin/docker/Dockerfile">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="375">
+          <caret line="15" column="11" lean-forward="true" selection-start-line="15" selection-start-column="11" selection-end-line="15" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hello-spring-cloud-zipkin/hello-spring-cloud-zipkin.iml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hello-spring-cloud-zipkin/docker/docker-compose.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="250">
+          <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hello-spring-cloud-zipkin/.gitlab-ci.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="275">
+          <caret line="17" column="54" lean-forward="true" selection-end-line="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hello-spring-cloud-admin/src/main/resources/bootstrap.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="3" column="27" selection-start-line="3" selection-start-column="27" selection-end-line="3" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hello-spring-cloud-admin/src/main/resources/bootstrap-prod.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="3" column="29" selection-start-line="3" selection-start-column="29" selection-end-line="3" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hello-spring-cloud-config/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1600">
+          <caret line="64" column="4" selection-start-line="64" selection-start-column="4" selection-end-line="76" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hello-spring-cloud-dependencies/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="5825">
+          <caret line="233" selection-start-line="233" selection-end-line="233" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hello-spring-cloud-admin/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1600">
+          <caret line="64" column="4" selection-start-line="64" selection-start-column="4" selection-end-line="76" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hello-spring-cloud-admin/.gitlab-ci.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="12" column="59" selection-start-line="12" selection-start-column="6" selection-end-line="12" selection-end-column="59" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hello-spring-cloud-admin/docker/docker-compose.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="100">
+          <caret line="4" column="46" selection-start-line="4" selection-start-column="46" selection-end-line="4" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hello-spring-cloud-config/docker/Dockerfile">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="250">
+          <caret line="10" column="118" selection-start-line="10" selection-start-column="87" selection-end-line="10" selection-end-column="118" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hello-spring-cloud-admin/docker/Dockerfile">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="325">
+          <caret line="13" column="22" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config/respo/spring-admin-dev.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="100">
+          <caret line="4" column="30" selection-start-line="4" selection-start-column="30" selection-end-line="4" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config/respo/eureka-dev.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="200">
+          <caret line="8" column="29" selection-start-line="8" selection-start-column="29" selection-end-line="8" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config/respo/spring-admin-prod.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="500">
+          <caret line="20" column="15" selection-start-line="20" selection-start-column="15" selection-end-line="20" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config/respo/zipkin-dev.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="350">
+          <caret line="14" column="114" lean-forward="true" selection-start-line="14" selection-start-column="19" selection-end-line="14" selection-end-column="114" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config/respo/zipkin-prod.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="9" column="12" lean-forward="true" selection-start-line="9" selection-start-column="12" selection-end-line="9" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hello-spring-cloud-config/.gitlab-ci.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="200">
+          <caret line="8" column="16" lean-forward="true" selection-start-line="8" selection-start-column="16" selection-end-line="8" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hello-spring-cloud-eureka/.gitlab-ci.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="775">
+          <caret line="31" selection-start-line="31" selection-end-line="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config/respo/eureka-prod.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="275">
+          <caret line="11" column="12" lean-forward="true" selection-start-line="11" selection-start-column="12" selection-end-line="11" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hello-spring-cloud-eureka/src/main/resources/bootstrap-prod.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="100">
+          <caret line="4" column="18" lean-forward="true" selection-start-line="4" selection-start-column="18" selection-end-line="4" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>Spring</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>10</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>hello-spring-cloud-eureka</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Maven: antlr:antlr:2.7.7</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

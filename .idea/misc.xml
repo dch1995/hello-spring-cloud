@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="JavaScriptSettings">
+    <option name="languageLevel" value="ES6" />
+  </component>
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/hello-spring-cloud-dependencies/pom.xml" />
+        <option value="$PROJECT_DIR$/hello-spring-cloud-eureka/pom.xml" />
+        <option value="$PROJECT_DIR$/hello-spring-cloud-service-admin/pom.xml" />
+        <option value="$PROJECT_DIR$/hello-spring-cloud-web-admin-feign/pom.xml" />
+        <option value="$PROJECT_DIR$/hello-spring-cloud-zuul/pom.xml" />
+        <option value="$PROJECT_DIR$/hello-spring-cloud-config/pom.xml" />
+        <option value="$PROJECT_DIR$/hello-spring-cloud-zipkin/pom.xml" />
+        <option value="$PROJECT_DIR$/hello-spring-cloud-admin/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectPlainTextFileTypeManager">
+    <file url="file://$PROJECT_DIR$/config/respo/spring-admin-dev.yml" />
+    <file url="file://$PROJECT_DIR$/config/respo/spring-admin-prod.yml" />
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" default="false" project-jdk-name="1.8" project-jdk-type="JavaSDK" />
+</project>

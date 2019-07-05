@@ -1,0 +1,27 @@
+spring:
+  application:
+    name: hello-spring-cloud-web-admin-feign
+  thymeleaf:
+    cache: false
+    mode: LEGACYHTML5
+    encoding: UTF-8
+    servlet:
+      content-type: text/html
+  zipkin:
+    base-url: http://172.26.0.51:9411
+  boot:
+    admin:
+      client:
+        url: http://172.26.0.51:8084
+
+server:
+  port: 8765
+
+feign:
+  hystrix:
+    enabled: true
+
+eureka:
+  client:
+    serviceUrl:
+      defaultZone: http://172.26.0.51:8761/eureka/,http://172.26.0.51:8861/eureka/,http://172.26.0.51:8961/eureka/
